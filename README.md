@@ -8,7 +8,7 @@
 
 - 一大堆
 - 比赛当时就审出来一个SQL注入
-- 以及不知是否是主办方失误了，在inc/conn.sql的SQL查询函数query()那里添加mysqli_error()，但是忘记添加参数了，我在源码里补上了
+- 以及不知是否是主办方失误了，在inc/conn.php的SQL查询函数query()那里添加mysqli_error()，但是忘记添加参数了，我在源码里补上了
 - etc.
 
 ## 环境重点
